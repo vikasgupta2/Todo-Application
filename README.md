@@ -1,5 +1,5 @@
 # Todo-Application
-visit: https://todo-app.vikasgupta.tech
+Visit: https://todo-app.vikasgupta.tech
 
 <li>Developed persistent todo application with CRUD operations to track list of tasks</li>
 <li>Displayed list of todos with HTML list elements, styled todo list using CSS, Bootstrap</li>
